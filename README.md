@@ -12,11 +12,12 @@
 <body>
     <header>
         <div class="container">
-            <h1>Taylor Allen</h1>
+            <h1>Taylor Allen</h1> (padding works wonders!)
             <ul>
                 <li>About</li>
                 <li>Portfolio</li>
                 <li>Contact</li>
+				(it gets tricky aligning these to the right, remember inline blocks)
             </ul>
         </div>
     </header>
@@ -37,7 +38,7 @@
     </div>
    
         <div class="content">
-            
+         (I still dont really understand the concept of the sticky footer, but somehow i got it to work)   
         </div>
         <footer class="footer"></footer>
         <footer>
