@@ -27,7 +27,7 @@
         <section id="main-bio">
 
             <h2>About Me</h2>
-
+			(DO NOT CHANGE YOUR ASSETS FOLDER OR EVERY IMAGE ON YOUR PAGE WILL GET MESSED UP)
             <img src="assets/images/20190907_153502.jpg" alt="Taylor" width="200">
 
             <p>
