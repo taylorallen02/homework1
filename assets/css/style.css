@@ -11,11 +11,12 @@ body {
     font-size: 18px;
     line-height: 150%;
     color: #777777;
-    background-image: url(c:/users/owner/desktop/bootcamp/homework1/assets/images/sneaker_mesh_fabric.png)
+    background-image: url(c:/users/owner/desktop/bootcamp/homework1/homework1/assets/images/sneaker_mesh_fabric.png)
 }
 
 header {
     border-bottom: 2px solid #cccccc;
+    padding-bottom: 0;
 }
 
 h1 {
@@ -72,7 +73,7 @@ p {
     width: 1024px;
     margin: 0 auto;
     background-color: #ffffff;
-    margin-bottom: 50px;
+
 }
 
 #main-bio {
